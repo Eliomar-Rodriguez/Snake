@@ -1,0 +1,6 @@
+Si a la hora de ejecutar el programa le da error, es porque no tiene instalada la librería de pygame la cual NO SE PUEDE INCLUIR EN EL PROYECTO Y DEBE SER INSTALADA EN WINDOWS
+Para instalar dicha librería, puede acceder a esta dirección ( http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame ) y descargar la versión que necesita
+1) pygame-1.9.3-cp36-cp36m-win32.whl  para 32 bits
+2) pygame-1.9.3-cp36-cp36m-win_amd64.whl  para 64 bits
+Después de haber descargado la librería, ingrese al siguiente link y siga los pasos de instalación del video
+https://www.youtube.com/watch?v=ki_5uS4bOgQ
